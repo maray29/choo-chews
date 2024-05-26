@@ -1,5 +1,11 @@
 # @maray-ai/choo-chews
 
+## 0.1.2
+
+### Patch Changes
+
+- ed2e7ab: fixing npm publishing
+
 ## 0.1.1
 
 ### Patch Changes
