@@ -1,0 +1,14 @@
+[data-theme='blue'] {
+  --color--background--bg-primary: var(--color--primitive--brand--950);
+  --color--component--tag-bg: var(--color--primitive--brand--900);
+}
+
+[data-theme='orange'] {
+  --color--background--bg-primary: var(--color--primitive--orange--700);
+  --color--component--tag-bg: var(--color--primitive--orange--600);
+}
+
+[data-theme='teal'] {
+  --color--background--bg-primary: var(--color--primitive--teal--800);
+  --color--component--tag-bg: var(--color--primitive--teal--700);
+}
